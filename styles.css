@@ -1,6 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
 
-
 * {
   padding: 0;
   margin: 0;
@@ -23,7 +22,7 @@ nav {
 }
 
 img {
-  width: 100%; 
+  width: 100%;
 }
 
 p {
@@ -133,8 +132,6 @@ LANDING
   color: white;
 }
 
-
-
 .btn__menu--close {
   position: absolute;
   right: 20px;
@@ -211,7 +208,6 @@ button {
   flex-direction: column;
   align-items: center;
 }
-
 
 .no-cursor {
   cursor: not-allowed;
@@ -346,7 +342,6 @@ FEATURES
   color: #bfbfbf;
 }
 
-
 /*
 
 EXPLORE
@@ -373,7 +368,7 @@ footer {
 
 .footer__logo--img {
   width: 160px;
-  filter: grayscale(1) invert(1);  
+  filter: grayscale(1) invert(1);
 }
 
 .footer__link,
